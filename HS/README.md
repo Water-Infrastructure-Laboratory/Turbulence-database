@@ -5,6 +5,6 @@ This repository contains the 2D planar PIV measurement of a bench-scale hydrodyn
 ### Geometry
 ![Alt Text](HS_config.png)
 ### Configuration
-![Alt Text](https://github.com/Rdfing/interAdsFoam/blob/main/example.gif)
+
 ### Visualization
-![Alt Text](https://github.com/Rdfing/interAdsFoam/blob/main/example.gif)
+![Alt Text](HS_demo.gif)
