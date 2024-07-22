@@ -6,9 +6,9 @@ This repository contains the 2D planar PIV measurement of a bench-scale hydrodyn
 - The statistics file is organized as $x$, $y$, $\left\langle u \right\rangle$, $\left\langle v \right\rangle$, $\left\langle u'u' \right\rangle$, $\left\langle v'v' \right\rangle$, $\left\langle u'v' \right\rangle$
 - x and y are normalized by tank diameter $D$, and all the flow statistics are normalized by inlet bulk flow velocity $U_I$
 ### Geometry
-![Alt Text](HS/HS_config.png)
+![](HS/HS_config.png | width=100)
 ### Visualization
-![Alt Text](HS/HS_demo.gif)
+![](HS/HS_demo.gif)
 
 ## Case 2 [coming soon]
 
